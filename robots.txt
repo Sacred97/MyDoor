@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://cx70483.tmweb.ru/sitemap.xml
